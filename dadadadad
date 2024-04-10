@@ -1,0 +1,15 @@
+/*CREATE DATABASE ckc_camans; 
+USE ckc_camans;
+CREATE TABLE pasakumi (
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+datums DATETIME NOT NULL,
+title  VARCHAR(255) NOT NULL,
+vieta  VARCHAR(255) NOT NULL
+);
+INSERT INTO pasakumi
+(title) 
+VALUES 
+ ('Datums un laiks'), 
+ ('Nosaukums');
+ ('Norises vieta');
+*/
